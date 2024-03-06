@@ -1,6 +1,6 @@
 # sample
 * name: game maker guider
-* description: Level up your game making skills by completing the tutorials in this guide.
+* description: Level up your game making skills by completing the tutorials in this guide.dddd
 
 ## interface
 * name: Learn to use MakeCode Arcade
