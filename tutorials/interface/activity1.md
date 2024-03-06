@@ -30,7 +30,7 @@ game.onUpdateInterval(5000, function () {
 
 ### @explicitHints true
 
-## Introduction @unplugged
+## Introduction소개 @unplugged
 
 ![Psyched Monkey](/static/skillmap/interface/monkey.png "Psyched Monkey is Ready!" )
 
