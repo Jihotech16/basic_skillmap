@@ -14,8 +14,8 @@
 * description: Intro to our tutorial cards
 * tags: easy
 
-* url: https://github.com/microsoft/pxt-skillmap-sample/tutorials/interface/activity1 
-* imageUrl: https://raw.githubusercontent.com/microsoft/pxt-skillmap-sample/main/img/interface/activity1.png
+* url: https://github.com/jihotech16/basic_skillmap/tutorials/interface/activity1 
+* imageUrl: https://raw.githubusercontent.com/jihotech16/basic_skillmap/main/img/interface/activity1.png
 
 ## space
 * name: Design a Space Explorer
