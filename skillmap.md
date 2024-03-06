@@ -1,5 +1,5 @@
 # sample
-* name: game maker guider
+* name: 게임 제작 가이드
 * description: Level up your game making skills by completing the tutorials in this guide.dddd
 
 ## interface
