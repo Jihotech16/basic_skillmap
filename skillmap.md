@@ -1,5 +1,5 @@
 # sample
-* name: Game Maker Guide
+* name: 메이크코드 아케이드 기본 익히기
 * description: Level up your game making skills by completing the tutorials in this guide.
 
 ## interface
