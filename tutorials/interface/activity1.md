@@ -30,15 +30,15 @@ game.onUpdateInterval(5000, function () {
 
 ### @explicitHints true
 
-## Introduction소개 @unplugged
+## 소개 @unplugged
 
 ![Psyched Monkey](/static/skillmap/interface/monkey.png "Psyched Monkey is Ready!" )
 
-**Are you ready to start coding your own games?**
+**메이크 코드 아케이드 기본 사용법 튜토리얼에 오신것을 환영합니다.**
 
-Complete this tutorial to learn how to:
+이 튜토리얼은 아래 내용을 다루고 있습니다 :
 - follow tutorial prompts
-- find blocks in the toolbox
+- 도구 상자 안에서 블록을 찾는 방법
 - build code in the workspace
 - run your game on the built-in simulator 
 
@@ -46,14 +46,15 @@ Before you know it, you'll have an arcade game of your very own!
 
 ## step 1 
 
-**⭐Welcome⭐**
+**⭐환영합니다⭐**
 
+튜토리얼은 설명서를 잘 읽고 따라해보시면 쉽게 익힐 수 있을 것입니다.
 You've just discovered the most important part of following a tutorial — reading instructions!
-
+만일 설명서 전부를 읽고 싶지 않다면, 확장 박스 아래의 **[v More...]**를 클릭해주세요. 
 If you can't see all of the instructions, click **[v More...]** below to expand the box.
 
 ---
-
+다음 단계로 넘어갈 준비가 되었다면, **[ >  Next]**를 클릭해주세요.
 When you're ready to move to the next step, click **[ >  Next]** to continue.  
 
 
